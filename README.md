@@ -2,7 +2,7 @@
 
 **AI Engineering Course.** 20 phases, 523 lessons, 373 quizzes. From your first dev environment to agents, protocols and production systems.
 
-Read the lessons and take the quizzes on https://aiwithvd.com/academy. This repo holds the code and the take-away files for every lesson.
+Read the lessons and take the quizzes on https://aiwithvd.com/ai-engineering. This repo holds the code and the take-away files for every lesson.
 
 ## Where to start
 
@@ -16,7 +16,7 @@ Read the lessons and take the quizzes on https://aiwithvd.com/academy. This repo
 
 ## How a lesson works
 
-1. Read the lesson on https://aiwithvd.com/academy.
+1. Read the lesson on https://aiwithvd.com/ai-engineering.
 2. Run the code in `phases/<phase>/<lesson>/code/`.
 3. Keep the take-away files in `phases/<phase>/<lesson>/outputs/`: skills and prompts you can reuse in your own work.
 
